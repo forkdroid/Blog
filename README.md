@@ -1,5 +1,5 @@
-<h2>Hello, I am Risa Rajesh Almeida and this is my simple blog app. It was created with the motive to get working with react and django!<br>
-It was a fun project to make! And I have learned a lot!!</h2>
+<h4>Hello, I am Risa Rajesh Almeida and this is my simple blog app. It was created with the motive to get working with react and django!<br>
+It was a fun project to make! And I have learned a lot!!</h4>
 
 
 
