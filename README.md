@@ -1,3 +1,7 @@
+<h2>Hello, I am Risa Rajesh Almeida and this is my simple blog app. It was created with the motive to get working with react and django!<br>
+It was a fun project to make! And I have learned a lot!!</h2>
+
+
 
 <img width="1360" height="630" alt="Image" src="https://github.com/user-attachments/assets/c147d24b-fdac-4502-ba60-deff8a63f700" /> 
 <br><br>
