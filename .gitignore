@@ -1,0 +1,24 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/ # Added a slash to ensure it targets the directory
+
+# Node
+node_modules/
+build/
+dist/
+.env
+
+# React
+*.log
+# *.env is already covered by the Node section
+.DS_Store
